@@ -76,7 +76,7 @@ form.addEventListener('submit', function (e) {
 
 // tombol X kembali ke halaman depan
 btnBack.addEventListener('click', function () {
-  window.location.href = '../index.html#rsvp';
+  window.location.href = 'index.html#rsvp';
 });
 
 // tombol Update My Confirmation kembali ke form RSVP
@@ -85,3 +85,4 @@ btnUpdate.addEventListener('click', function () {
   form.classList.remove('hidden'); // tampilkan form lagi
   window.scrollTo({ top: 0, behavior: 'smooth' });
 });
+

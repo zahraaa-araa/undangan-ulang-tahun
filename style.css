@@ -149,7 +149,7 @@ body {
   left: 0;
   width: 200px;
   height: 200px;
-  background: url("nobita.png") no-repeat bottom left;
+  background: url(nobita.png) no-repeat bottom left;
   background-size: contain;
   animation: floatDekor 4s ease-in-out infinite;
 }
@@ -686,5 +686,6 @@ body {
   opacity: 1;
   transform: translateY(0);
 }
+
 
 

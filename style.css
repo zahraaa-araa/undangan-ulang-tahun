@@ -12,7 +12,7 @@ body {
 
 /* Kotak di tengah */
 .invitation-box {
-  background-image: url ("bg5.png"); /* lokasi file gambar */
+  background-image: url (bg5.png); /* lokasi file gambar */
   background-repeat: no-repeat;  /* jangan diulang */
   background-size: cover;        /* isi penuh layar */
   background-position: center;   /* posisi di tengah */
@@ -686,6 +686,7 @@ body {
   opacity: 1;
   transform: translateY(0);
 }
+
 
 
 

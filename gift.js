@@ -8,5 +8,6 @@ function copyToClipboard(id) {
 }
 // tombol X kembali ke halaman depan
 btnBack.addEventListener('click', function () {
-  window.location.href = '../index.html#gift';
+  window.location.href = 'index.html#gift';
+
 });
